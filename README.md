@@ -141,15 +141,6 @@ Ikechukwu
 - Twitter: [@bidtechnologies](https://twitter.com/bidtechnologies)
 - LinkedIn: [boniface-ikechukwu](https://www.linkedin.com/in/boniface-ikechukwu/)
 
-👤 **Author1**
-Mukund Prasad
-
-- GitHub: [@mukund816)](https://github.com/mukund816)
-- Twitter: [@bidtechnologies](https://twitter.com/bidtechnologies)
-- LinkedIn: [boniface-ikechukwu](https://www.linkedin.com/in/boniface-ikechukwu/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
